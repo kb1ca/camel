@@ -64,7 +64,7 @@ And in XML:
 ----
 <route>
   <from uri="direct:start"/>
-  <toD uri="mock:${header.foo"/>
+  <toD uri="mock:${header.foo}"/>
 </route>
 ----
 
